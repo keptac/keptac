@@ -1,6 +1,6 @@
 #### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  💻 👨‍💻 My name is Kelvin Chelenje you can call me Keptac! 😎 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=keptac.keptac)
 
-Not worried I am not becoming a good dancer as fast as I am becoming a good coder! Full Stack Software Developer, Blockchain Developer and more. Looking to use coding to create, innovate, add value and solve problems.  My journey is only starting but its going to be Epic, meet you along the way!
+Full Stack Software Developer, Blockchain Developer, RPA dev and emerging tech researcher. Looking to use coding to create, innovate, add value and solve problems.  My journey is ongoing and its an epic one,  meet you along the way!
 
 
 ## 📖 My areas of interest :
