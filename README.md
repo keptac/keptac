@@ -1,4 +1,4 @@
-#### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  💻 👨‍💻 My name is Kelvin Chelenje you can call me Keptac! 😎 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=keptac.keptac)
+#### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  💻 👨‍💻 My name is Kelvin you can call me Keptac! 😎 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=keptac.keptac)
 
 Full Stack Software Developer, Blockchain Developer, RPA dev and emerging tech researcher. Looking to use coding to create, innovate, add value and solve problems.  My journey is ongoing and its an epic one,  meet you along the way!
 
